@@ -8,7 +8,7 @@ The main goal of this project is to demonstrate the fundamentals of E2E test aut
 
 ## 📚 Context
 
-This project was developed during the Formação em Teste de Software e QA at Iterasys (class 147), as part of the initial learning of E2E test automation.
+This project was developed during the Formação em Teste de Software e QA at [Iterasys](https://iterasys.com.br/) (class 147), as part of the initial learning of E2E test automation.
 
 It focuses on understanding how Playwright works and how to structure basic automated tests.
 
